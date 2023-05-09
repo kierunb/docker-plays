@@ -1,1 +1,1 @@
-# docker-plays
+# docker/aks workshop notes
