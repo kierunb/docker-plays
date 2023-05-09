@@ -1,5 +1,6 @@
 # docker/aks workshop notes
 
+```bash
 docker
 docker version
 docker info
@@ -9,3 +10,4 @@ docker ps -a	// list all containers
 docker images
 
 docker search "Microsoft" --limit 20
+```
